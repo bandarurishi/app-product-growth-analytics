@@ -7,12 +7,11 @@
 
 Use these bullet points in your CV under the **Projects** or **Work Experience** section. They are pre-formatted using Google's **XYZ Framework** (*Accomplished [X], as measured by [Y], by doing [Z]*):
 
-### Option A: Comprehensive 4-Bullet Format (Recommended)
-> **App Product Growth & A/B Experimentation Analytics** | *SQL, Power BI, DAX, Product Analytics*
-> - Modeled an end-to-end **6-stage user onboarding funnel** across **46,000+ clickstream events** using PostgreSQL CTEs and window functions, isolating a critical **26.4% conversion drop-off on Android** during KYC verification.
-> - Engineered an automated **A/B testing evaluation engine** in SQL, calculating pooled standard error and two-tailed Z-scores ($Z = 11.45, p < 0.001$) to validate an **11% absolute lift** in onboarding completion for Variant B.
-> - Implemented cohort retention tracking (**D1, D3, D7, D14, D30**) and **DAU/MAU stickiness metrics** (22.4% baseline) in Power BI using optimized Star Schema relationships and time-intelligence DAX.
-> - Built an interactive 3-page executive dashboard with device and channel slicers, providing product managers with drill-down root-cause diagnostics that informed the mobile UI optimization roadmap.
+### Option A: Standard 4-Bullet Format (~133 characters each - ATS & Recruiter Optimized)
+- Modeled a 6-stage onboarding funnel across 46K+ clickstream events using SQL CTEs to evaluate conversion across 10,000 user profiles.
+- Diagnosed a 26.4% KYC conversion drop-off on Android devices using SQL window functions, recommending fixes to recover $42K+ revenue.
+- Built an A/B test statistical engine measuring pooled error and Z-scores (Z=11.45, p<0.001) to validate an 11% signup conversion lift.
+- Engineered a 3-page Power BI dashboard monitoring DAU/MAU stickiness (22.4%) and D1-D30 cohort retention using a Star Schema and DAX.
 
 ### Option B: Condensed 2-Bullet Format (For tight 1-page CVs)
 > **App Product Growth & A/B Experimentation Analytics** | *SQL, Power BI, DAX*
