@@ -7,11 +7,11 @@
 
 Use these bullet points in your CV under the **Projects** or **Work Experience** section. They are pre-formatted using Google's **XYZ Framework** (*Accomplished [X], as measured by [Y], by doing [Z]*):
 
-### Option A: Standard 4-Bullet Format (~133 characters each - ATS & Recruiter Optimized)
+### Option A: Standard 4-Bullet Format (ATS & Recruiter Optimized)
 - Modeled a 6-stage onboarding funnel across 46K+ clickstream events using SQL CTEs to evaluate conversion across 10,000 user profiles.
-- Diagnosed a 26.4% KYC conversion drop-off on Android devices using SQL window functions, recommending fixes to recover $42K+ revenue.
+- Diagnosed a 26.4% KYC drop-off on Android using SQL window functions, recommending fixes to recover $42K+ revenue.
 - Built an A/B test statistical engine measuring pooled error and Z-scores (Z=11.45, p<0.001) to validate an 11% signup conversion lift.
-- Engineered a 3-page Power BI dashboard monitoring DAU/MAU stickiness (22.4%) and D1-D30 cohort retention using a Star Schema and DAX.
+- Engineered a 3-page Power BI dashboard monitoring DAU/MAU stickiness (22.4%) and D1-D30 retention using Star Schema and DAX.
 
 ### Option B: Condensed 2-Bullet Format (For tight 1-page CVs)
 > **App Product Growth & A/B Experimentation Analytics** | *SQL, Power BI, DAX*
