@@ -7,11 +7,11 @@
 
 Use these bullet points in your CV under the **Projects** or **Work Experience** section. They are pre-formatted using Google's **XYZ Framework** (*Accomplished [X], as measured by [Y], by doing [Z]*):
 
-### Option A: High-Impact Recruiter-Hook Format (~133 characters each)
-- Uncovered a 26% Android onboarding leak across 46K+ events using SQL CTEs; proposed camera SDK fixes saving $42K in monthly revenue.
-- Designed an A/B test statistical engine (Z=11.45, p<0.001) proving Variant B drove an 11% signup lift without diluting user activation.
-- Identified core product habituation by modeling L28 power-user curves and D1-D30 retention cohorts in SQL to isolate sticky segments.
-- Architected a 3-page Power BI executive suite via Star Schema and DAX, empowering PMs to drill into real-time DAU/MAU app stickiness.
+### Option A: Clean & Easy-to-Explain Format (~133 characters each)
+- Found a 26% user drop-off on Android onboarding across 46K events using SQL CTEs; suggested camera fixes saving $42K monthly revenue.
+- Ran an A/B test in SQL (Z=11.45, p<0.001) proving that Variant B increased signups by 11% while keeping downstream user quality high.
+- Analyzed user retention across D1-D30 cohorts and 28-day activity curves using SQL to identify the most active and loyal user groups.
+- Built a 3-page Power BI dashboard using DAX to help product managers track daily active users (DAU/MAU) and overall app stickiness.
 
 ### Option B: Condensed 2-Bullet Format (For tight 1-page CVs)
 > **App Product Growth & A/B Experimentation Analytics** | *SQL, Power BI, DAX*
